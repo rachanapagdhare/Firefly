@@ -1,0 +1,8 @@
+open cmd in this folder with the project and run the following 2 commands
+
+
+1. firee\scripts\activate
+
+2. streamlit run fire_detection.py
+
+your app will run on your browser you can test its working by uploading test_image or fire_video from this folder.
